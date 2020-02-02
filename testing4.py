@@ -39,3 +39,4 @@ prediction = tree2.predict(test_features)
 
 print("The prediction accuracy is: ",tree.score(test_features,test_targets)*100,"%")
 print("The prediction accuracy is: ",tree2.score(test_features,test_targets)*100,"%")
+print('Thanks added')
